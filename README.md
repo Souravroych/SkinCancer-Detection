@@ -3,12 +3,6 @@
 ## Team Member and Roles:
 Sourav Roy Choudhury, Abhishek Fulzele, Ayanjyoti Thakuria, Rahul Patel**
 
-| Names         | Roles and Responsibilities           |
-| ------------- |:------------------------------------:|
-| Abhishek Fulzele      | Worked with Sourav and Ayanjyoti for builing dashboard and the model |
-| Ayanjyoti Thakuria    | Worked with Abhishek to build and fit predictive model using Python, Keras and Google Cloud Platform |
-| Rahul Patel           | Researched dataset for analysis and preprossessing |
-| Sourav Roy Choudhary  | Developed Dashboard on Google Cloud Platform |
 
 ## Installation and setup
 
