@@ -1,7 +1,7 @@
 # Skin Cancer Detection using Keras
 
 ## Team Member and Roles:
-Abhishek Fulzele, Ayanjyoti Thakuria, Rahul Patel, Sourav Roy Choudhary**
+Sourav Roy Choudhury, Abhishek Fulzele, Ayanjyoti Thakuria, Rahul Patel**
 
 | Names         | Roles and Responsibilities           |
 | ------------- |:------------------------------------:|
